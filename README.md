@@ -25,8 +25,6 @@ Implement separate chaining for collision resolution. Hint: Use arrays for the h
 
 Suggest corrections based on words with the same first letter with a string length +/- 1 of the original string length
 
-Use a small dictionary (e.g., 1000 common English wordsLinks to an external site.).
-
 Implement a function to add new words to the dictionary.
 
 Display the load factor of the hash table
@@ -39,11 +37,10 @@ Suggest corrections based on words with the same two starting letters with a str
 
 Implement a function to remove words from the dictionary.
 
-Use a medium-sized dictionary (e.g., 172K English wordsLinks to an external site.).
 
 Implement open addressing with linear probing and quadratic probing and compare the two for performance
 
-Use a large dictionary (e.g., 400K+ English wordsLinks to an external site.).
+Use a large dictionary (e.g., 400K+ English in Dictionary.txt).
 
 Implement a simple file input option to spell-check entire text documents.
 
